@@ -218,4 +218,4 @@ OpenProj is offered as a full free version with all features and updates include
 Don't miss out on managing your projects effectively! Download OpenProj today for free and experience the benefits of this powerful project management tool.
 
 ---
-**Last updated:** 2026-11-06 16:28:22 UTC
+**Last updated:** 2026-11-06 21:51:58 UTC
